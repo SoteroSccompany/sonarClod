@@ -1,0 +1,10 @@
+mode: set
+go/math/sum.go:5.13,7.2 1 0
+go/math/sum.go:9.28,11.2 1 1
+go/math/sum.go:13.28,15.2 1 0
+go/math/sum.go:17.29,19.2 1 0
+go/math/sum.go:21.28,23.12 1 0
+go/math/sum.go:23.12,25.3 1 0
+go/math/sum.go:27.2,27.14 1 0
+go/math/sum.go:30.28,32.2 1 0
+go/math/sum.go:34.28,36.2 1 0
