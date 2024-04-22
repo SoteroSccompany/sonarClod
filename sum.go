@@ -10,6 +10,7 @@ func sum(a int, b int) int {
 	return a + b
 }
 
+//Alteration for pass in sonarquber in cloud
 // func sub(a int, b int) int {
 // 	return a - b
 // }
